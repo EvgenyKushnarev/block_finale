@@ -1,0 +1,15 @@
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\bin\Debug\net6.0\Finale.exe
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\bin\Debug\net6.0\Finale.deps.json
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\bin\Debug\net6.0\Finale.runtimeconfig.json
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\bin\Debug\net6.0\Finale.dll
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\bin\Debug\net6.0\ref\Finale.dll
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\bin\Debug\net6.0\Finale.pdb
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.csproj.AssemblyReference.cache
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.AssemblyInfoInputs.cache
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.AssemblyInfo.cs
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.csproj.CoreCompileInputs.cache
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.dll
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\ref\Finale.dll
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.pdb
+C:\Users\Evgeny\OneDrive\Рабочий стол\Finale\obj\Debug\net6.0\Finale.genruntimeconfig.cache
